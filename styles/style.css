@@ -63,3 +63,14 @@ h1{
     height: 85%;
 }
 
+/* footer style  */
+footer{
+    background-color: #0B0D17;;
+}
+ul{
+    list-style: none;
+}
+.footer-img{
+    width: 120px;
+    height: 80px;
+}
